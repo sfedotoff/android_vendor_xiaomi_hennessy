@@ -6,4 +6,6 @@
 
 ### Credits (Sort by alphabetical order):
   - nofearnohappy
+  - r.schlegel
+  - sicmosh
   - The CyanogenMod Team

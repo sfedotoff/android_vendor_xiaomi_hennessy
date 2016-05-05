@@ -1,5 +1,7 @@
 # Live wallpaper packages
 PRODUCT_PACKAGES := \
+    FingerprintService \
+    SafeFingerprint \
     LiveWallpapers \
     LiveWallpapersPicker \
     MagicSmokeWallpapers \
