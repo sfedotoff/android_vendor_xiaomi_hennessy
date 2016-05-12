@@ -1,3 +1,9 @@
+PRODUCT_PACKAGES += \
+    FingerprintService \
+    SafeFingerprint \
+    FaceLock \
+    EngineerMode \
+
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/xiaomi/hennessy/app,system/app)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/xiaomi/hennessy/lib,system/lib)
