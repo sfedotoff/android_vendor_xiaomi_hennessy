@@ -1,5 +1,6 @@
 # Live wallpaper packages
 PRODUCT_PACKAGES := \
+	FmRadio \
     FingerprintService \
     SafeFingerprint \
     LiveWallpapers \
